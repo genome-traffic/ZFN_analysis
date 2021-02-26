@@ -1,0 +1,18 @@
+o1f	o1r
+e2f	e2r
+o3f	o3r
+e4f	e4r
+o5f	o5r
+e6f	e6r
+o7f	o7r
+e8f	e8r
+o9f	o9r
+e10f	e10r
+o11f	o11r
+e12f	e12r
+o13f	o13r
+e14f	e14r
+o15f	o15r
+e16f	e16r
+o17fAD	o17rAD  
+        
